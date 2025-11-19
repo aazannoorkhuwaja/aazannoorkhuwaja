@@ -43,7 +43,7 @@
 
 ### 📚 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=python,sql,arch,vim,aws,html,css,javascript)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,arch,vim,aws,html,css,javascript)](https://skillicons.dev)
 
 Exploring DSA patterns and expanding my toolkit with new technologies!
 
