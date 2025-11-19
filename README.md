@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Main Skills
+### Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github)](https://skillicons.dev)
 
@@ -49,7 +49,7 @@ Exploring advanced DSA patterns, system design, and expanding my toolkit with ne
 
 ---
 
-### 🏆 Coding Profiles
+### Coding Profiles
 
 <p align="left">
   <a href="https://leetcode.com/u/aazannoorkhuwaja" target="_blank">
@@ -74,7 +74,7 @@ Exploring advanced DSA patterns, system design, and expanding my toolkit with ne
 
 ---
 
-### 🌐 Connect with Me!
+### Connect with Me!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/" target="_blank">
@@ -96,7 +96,7 @@ Exploring advanced DSA patterns, system design, and expanding my toolkit with ne
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aazannoorkhuwaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
@@ -118,7 +118,7 @@ Exploring advanced DSA patterns, system design, and expanding my toolkit with ne
 ### 💼 Employer?
 
 > [!IMPORTANT]  
-> 📄 **[Download My Resume](./Aazan_noor_cv.pdf)** or **[Cover Letter](./cover_letter.pdf)**
+> **[Download My Resume](./Aazan_noor_cv.pdf)** or **[Cover Letter](./cover_letter.pdf)**
 > 
 > *Available for internships and entry-level positions in Software Development*
 
