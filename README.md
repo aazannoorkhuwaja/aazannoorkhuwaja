@@ -118,7 +118,7 @@ Exploring advanced DSA patterns, system design, and expanding my toolkit with ne
 ### 💼 Employer?
 
 > [!IMPORTANT]  
-> 📄 **[Download My Resume](./resume.pdf)** or **[View My Portfolio](./PORTFOLIO.md)**
+> 📄 **[Download My Resume](./Aazan_noor_cv.pdf)** or **[Cover Letter](./cover_letter.pdf)**
 > 
 > *Available for internships and entry-level positions in Software Development*
 
