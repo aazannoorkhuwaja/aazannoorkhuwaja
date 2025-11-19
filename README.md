@@ -31,7 +31,7 @@
 
 ### Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github)](https://skillicons.dev)
 
 **Languages & Technologies:**
 - **Programming:** C, C++, Python
@@ -43,7 +43,7 @@
 
 ### 📚 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=arch,docker,vim,aws)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,sql,arch,vim,aws,html,css,javascript)](https://skillicons.dev)
 
 Exploring DSA patterns and expanding my toolkit with new technologies!
 
