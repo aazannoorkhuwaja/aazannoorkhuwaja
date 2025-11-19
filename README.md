@@ -20,9 +20,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Passionate **Computer Science Student** with a focus on algorithms and system programming
+- 🎓 **Computer Science Student**
 - 💻 Currently mastering **Data Structures & Algorithms, C++, and Competitive Programming**
-- 🐧 Linux enthusiast running **Arch Linux** with deep knowledge of **Bash scripting**
+- 🐧 Linux enthusiast running **Arch Linux** with a bit knowledge of **Bash scripting**
 - 🏆 Active on multiple competitive programming platforms
 - 🌱 Continuously learning and improving problem-solving skills
 - 📫 Reach me at **aazannoorkhuwaja@gmail.com**
@@ -43,9 +43,9 @@
 
 ### 📚 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=docker,vim,rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=docker,vim,cloud,aws)](https://skillicons.dev)
 
-Exploring advanced DSA patterns, system design, and expanding my toolkit with new technologies!
+Exploring DSA patterns and expanding my toolkit with new technologies!
 
 ---
 
@@ -129,7 +129,7 @@ Exploring advanced DSA patterns, system design, and expanding my toolkit with ne
 <p align="center">
   <i>⭐ From <a href="https://github.com/aazannoorkhuwaja">Aazan Noor Khuwaja</a> - Let's connect and build something amazing!</i>
   <br>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-0891b2?style=for-the-badge&logo=markdown" alt="Made with Markdown"/>
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-0891b2?style=for-the-badge&logo=markdown" alt="Let's Contribute Together"/>
 </p>
 
 <!--
