@@ -129,7 +129,6 @@ Exploring DSA patterns and expanding my toolkit with new technologies!
 <p align="center">
   <i>⭐ From <a href="https://github.com/aazannoorkhuwaja">Aazan Noor Khuwaja</a> - Let's connect and build something amazing!</i>
   <br>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-0891b2?style=for-the-badge&logo=markdown" alt="Let's Contribute Together"/>
 </p>
 
 <!--
