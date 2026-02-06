@@ -9,7 +9,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=0891b2&width=650&lines=Hello%2C+I'm+Aazan+Noor+Khuwaja;Scaling+Problem-Solving+Skills+via+LeetCode;Computer+Science+Student+@+FAST;Aspiring+Backend+Engineer" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=0891b2&width=750&lines=Hello%2C+I'm+Aazan+Noor+Khuwaja;Computer+Science+Student+at+FAST;Learning+How+To+Solve+Real-World+Problems;Scaling+Logic+via+LeetCode" alt="Typing Animation"/>
 </a>
 
 <p align="left"> 
