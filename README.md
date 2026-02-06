@@ -21,9 +21,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Computer Science Student**
-- 💻 Currently mastering **Data Structures & Algorithms, C++, and Competitive Programming**
-- 🐧 Linux enthusiast running **Arch Linux** with a bit knowledge of **Bash scripting**
-- 🏆 Active on multiple competitive programming platforms
+- 💻 Currently mastering **How To Solve Problems?**
+- 🐧 Linux is my **Professional OS**
 - 🌱 Continuously learning and improving problem-solving skills
 - 📫 Reach me at **aazannoorkhuwaja@gmail.com**
 
@@ -35,15 +34,15 @@
 
 **Languages & Technologies:**
 - **Programming:** C, C++, Python
-- **Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
-- **Systems:** Linux (Arch Linux), Bash Scripting
+- **Concepts:** (DS),(OOP),(OS),(DBMS)
+- **Systems:** Linux , Bash Scripting
 - **Tools:** Git, GitHub
 
 ---
 
 ### 📚 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=python,arch,vim,aws,html,css,javascript)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,arch,vim,Bash)](https://skillicons.dev)
 
 Exploring DSA patterns and expanding my toolkit with new technologies!
 
@@ -55,20 +54,8 @@ Exploring DSA patterns and expanding my toolkit with new technologies!
   <a href="https://leetcode.com/u/aazannoorkhuwaja" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/aazannoorkhuwaja" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.codechef.com/users/mr_ank" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://atcoder.jp/users/aazan_noor_k" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-003366?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
-  </a>
   <a href="https://www.geeksforgeeks.org/user/aazannoorhrjx" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://maang.in/users/aazan_noor_khuwaja" target="_blank">
-    <img src="https://img.shields.io/badge/MAANG-FF6B35?style=for-the-badge&logo=code&logoColor=white" alt="MAANG"/>
   </a>
 </p>
 
