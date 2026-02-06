@@ -44,7 +44,6 @@
 
 [![Learning](https://skillicons.dev/icons?i=python,vim,bash)](https://skillicons.dev)
 
-Exploring DSA patterns and expanding my toolkit with new technologies!
 
 ---
 
