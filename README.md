@@ -86,21 +86,21 @@ Exploring DSA patterns and expanding my toolkit with new technologies!
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aazannoorkhuwaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aazannoorkhuwaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aazannoorkhuwaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&layout=compact&border_radius=10" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aazannoorkhuwaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&layout=compact&border_radius=10" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aazannoorkhuwaja&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=aazannoorkhuwaja&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aazannoorkhuwaja&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
+    <img src="https://github-profile-trophy-kappa.vercel.app/?username=aazannoorkhuwaja&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
   </a>
 </p>
----
+
 
 ### 💼 Employer?
 
