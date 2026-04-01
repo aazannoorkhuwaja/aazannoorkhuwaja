@@ -31,7 +31,7 @@
 
 ### Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,hugo)](https://skillicons.dev)
 
 **Languages & Technologies:**
 - **Programming:** C, C++, Python
@@ -54,11 +54,7 @@
   <a href="https://leetcode.com/u/aazannoorkhuwaja" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/aazannoorhrjx" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
-
+    
 ---
 
 ### Connect with Me!
@@ -66,18 +62,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/mr_azan_noor" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010245635720" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.threads.net/@mr_azan_noor" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
-  <a href="https://youtube.com/@azanifymedia?si=WMgR8DMeREmmvTvF" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
 
