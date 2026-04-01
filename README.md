@@ -41,7 +41,7 @@
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 [![Learning](https://skillicons.dev/icons?i=python,vim,bash)](https://skillicons.dev)
 
@@ -102,7 +102,7 @@
 </p>
 
 
-### 💼 Employer?
+### Employer?
 
 > [!IMPORTANT]  
 > **[My Resume](./Aazan_noor_cv.pdf)**
@@ -114,7 +114,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" alt="footer"/>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/aazannoorkhuwaja">Aazan Noor Khuwaja</a> - Let's connect and build something amazing!</i>
+  <i> From <a href="https://github.com/aazannoorkhuwaja">Aazan Noor Khuwaja</a> - Let's connect and build something amazing!</i>
   <br>
 </p>
 
