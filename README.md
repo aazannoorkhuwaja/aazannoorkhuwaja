@@ -18,13 +18,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **Computer Science Student**
-- 💻 Currently Learning **How To Solve Problems?**
-- 🐧 Linux is my **Habitual OS**
-- 🌱 Continuously learning and improving problem-solving skills just getting ready for Future Innoavtions.
-- 📫 Reach me at **aazannoorkhuwaja@gmail.com**
+- **Computer Science Student**
+- Currently Learning **How To Solve Problems?**
+- Linux is my **Habitual OS**
+- Continuously learning and improving problem-solving skills just getting ready for Future Innoavtions.
+- Reach me at **aazannoorkhuwaja@gmail.com**
+- My Personal Website **https://aazannoorkhuwaja.github.io/**
 
 ---
 
