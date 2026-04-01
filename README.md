@@ -25,7 +25,7 @@
 - Linux is my **Habitual OS**
 - Continuously learning and improving problem-solving skills just getting ready for Future Innoavtions.
 - Reach me at **aazannoorkhuwaja@gmail.com**
-- My Personal Website **https://aazannoorkhuwaja.github.io/**
+- My Personal Website **https://aazannoorkhuwaja.github.io**
 
 ---
 
@@ -36,7 +36,7 @@
 **Languages & Technologies:**
 - **Programming:** C, C++, Python
 - **Concepts:** (DS),(OOP),(OS),(DBMS)
-- **Systems:** Linux , Bash Scripting
+- **Systems:** Linux
 - **Tools:** Git, GitHub
 
 ---
