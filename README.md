@@ -1,123 +1,113 @@
-<div align="center">
+<!--
+    Hey there, I'm Aazan Noor Khuwaja!
+    Happy to see you here exploring my README code
+    Feel free to get inspired!
 
-# Aazan Noor Khuwaja
+    Connect with me on LinkedIn or check out my coding profiles below!
+-->
 
-**Computer Science @ FAST-NUCES · Software Engineering · AI/ML · Systems**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header" alt="header"/>
 
-I build practical software across **Python, Java, C++, SQL, and Linux**, with a focus on turning core CS concepts into working systems.
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=0891b2&width=800&lines=Hello%2C+I'm+Aazan+Noor+Khuwaja;Computer+Science+Student+at+FAST;Building+Practical+Software+Projects;Strengthening+Problem+Solving+%26+DSA" alt="Typing Animation"/>
+</a>
 
-[Portfolio](https://aazannoorkhuwaja.github.io) · [LinkedIn](https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/) · [Resume](./Aazan_noor_cv.pdf) · [LeetCode](https://leetcode.com/u/aazannoorkhuwaja) · [Email](mailto:aazannoorkhuwaja@gmail.com)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aazannoorkhuwaja&label=Profile%20views&color=0891b2&style=for-the-badge" alt="profile views" />
+</p>
 
+---
+
+### About Me
+
+- **Computer Science Student at FAST-NUCES**
+- Building practical projects while improving **problem-solving, DSA, and software design**
+- Linux is my **daily development environment**
+- Interested in **systems, databases, AI/ML, and real-world software engineering**
+- Reach me at **[aazannoorkhuwaja@gmail.com](mailto:aazannoorkhuwaja@gmail.com)**
+- My Personal Website **[aazannoorkhuwaja.github.io](https://aazannoorkhuwaja.github.io)**
+
+---
+
+### Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,linux,git,github,hugo)](https://skillicons.dev)
+
+**Languages & Technologies:**
+- **Programming:** C, C++, Python, Java, SQL
+- **Concepts:** Data Structures, OOP, Operating Systems, DBMS, AI/ML Fundamentals
+- **Systems:** Linux
+- **Tools:** Git, GitHub, MySQL, Jupyter Notebook
+
+---
+
+### Currently Learning
+
+[![Learning](https://skillicons.dev/icons?i=python,vim,bash)](https://skillicons.dev)
+
+- Strengthening **DSA and algorithmic problem-solving**
+- Exploring **AI/ML, operating systems, and database-backed applications**
+
+---
+
+### Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/aazannoorkhuwaja" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+### Connect with Me!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://aazannoorkhuwaja.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
 
-## About
+### GitHub Stats
 
-I'm a Computer Science student who enjoys building beyond isolated exercises: database-backed applications, software architecture, algorithms, and applied machine learning.
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aazannoorkhuwaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aazannoorkhuwaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&layout=compact&border_radius=10" alt="Top Languages" height="170"/>
+</p>
 
-My current work is centered on **reliable application design, databases, AI/ML, operating systems, and problem solving**. I use Linux as my daily development environment and Git/GitHub as part of my regular workflow.
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=aazannoorkhuwaja&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" alt="GitHub Streak"/>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-kappa.vercel.app/?username=aazannoorkhuwaja&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
+  </a>
+</p>
 
-## Featured Projects
+### Employer?
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 [Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)
-
-**Python · MySQL · Desktop GUI · Database Design**
-
-A pharmacy POS and relational database system with batch-wise inventory, customer credit ledgers, expiry monitoring, receipt generation, and transaction-safe checkout flows.
-
-**Engineering highlights:** ACID-style transaction handling, FEFO inventory logic, relational schema design, and role-oriented workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)
-
-**Python · Scikit-learn · PCA · Genetic Algorithms**
-
-An AI/ML project comparing rule-based, supervised, unsupervised, and evolutionary approaches for detecting malicious network traffic.
-
-**Best result:** `95.58%` test accuracy and `0.9563` F1-score with KNN.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [FYP Management System](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project)
-
-**Java · Swing · MVC · OOP**
-
-A multi-role Final Year Project management platform for students, supervisors, and administrators, with proposal workflows, supervision requests, peer review, persistence, and dashboard views.
-
-**Engineering highlights:** MVC structure, inheritance-based user hierarchy, validation, and SHA-256 password hashing.
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [Computer Science Learning Repositories](https://github.com/aazannoorkhuwaja?tab=repositories)
-
-**Data Structures · Operating Systems · Databases · AI · Python**
-
-A growing collection of implementations, experiments, and coursework that documents how I move from fundamentals into larger systems.
-
-I keep these repositories public to show both the finished work and the learning process behind it.
-
-</td>
-</tr>
-</table>
+> [!IMPORTANT]
+> **[My Resume](./Aazan_noor_cv.pdf)**
+>
+> *Open to internships and entry-level software engineering opportunities.*
 
 ---
 
-## Technical Toolkit
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" alt="footer"/>
 
-**Languages**  
-`Python` · `Java` · `C++` · `C` · `SQL`
+<p align="center">
+  <i>From <a href="https://github.com/aazannoorkhuwaja">Aazan Noor Khuwaja</a> — let's connect and build something amazing!</i>
+  <br>
+</p>
 
-**Data & AI**  
-`Pandas` · `NumPy` · `Scikit-learn` · `Jupyter` · `PCA` · `Machine Learning`
-
-**Databases & Software Design**  
-`MySQL` · `Relational Modeling` · `OOP` · `MVC` · `Data Structures` · `Algorithms`
-
-**Systems & Tools**  
-`Linux` · `Git` · `GitHub` · `Bash` · `VS Code`
-
----
-
-## What I'm Focused On
-
-- Strengthening **data structures, algorithms, and problem-solving patterns**.
-- Building deeper knowledge of **operating systems, databases, and software architecture**.
-- Applying **AI and machine learning** to practical classification and automation problems.
-- Writing software that is easier to understand, test, maintain, and extend.
-
----
-
-## Beyond the Highlighted Projects
-
-Some other repositories document earlier projects and focused practice in C++, OOP, Python, data structures, operating systems, databases, and simulation-style applications.
-
-➡️ **[Explore all repositories](https://github.com/aazannoorkhuwaja?tab=repositories)**
-
----
-
-## Open to Opportunities
-
-I'm interested in **software engineering, backend/database, systems, and AI/ML internships or entry-level opportunities** where I can contribute to real products while continuing to grow as an engineer.
-
-**[View Resume](./Aazan_noor_cv.pdf)** · **[LinkedIn](https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/)** · **[Portfolio](https://aazannoorkhuwaja.github.io)** · **[Email Me](mailto:aazannoorkhuwaja@gmail.com)**
-
----
-
-<div align="center">
-
-**Build things. Measure them. Improve them.**
-
-</div>
+<!--
+    Thanks for visiting my profile!
+    Don't forget to star ⭐ my repositories if you find them interesting!
+-->
