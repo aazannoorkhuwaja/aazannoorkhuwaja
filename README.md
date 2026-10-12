@@ -1,43 +1,43 @@
 <!--
     Hey there, I'm Aazan Noor Khuwaja!
-    Happy to see you here exploring my README code
+    Happy to see you here exploring my README code.
     Feel free to get inspired!
-    
+
     Connect with me on LinkedIn or check out my coding profiles below!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=0891b2&width=750&lines=Hello%2C+I'm+Aazan+Noor+Khuwaja;Computer+Science+Student+at+FAST;Learning+How+To+Solve+Real-World+Problems;Scaling+Logic+via+LeetCode" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=0891b2&width=800&lines=Hello%2C+I'm+Aazan+Noor+Khuwaja;Computer+Science+Student+at+FAST;Building+Practical+Software+Projects;Strengthening+Problem+Solving+%26+DSA" alt="Typing Animation"/>
 </a>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aazannoorkhuwaja&label=Profile%20views&color=0891b2&style=for-the-badge" alt="profile views" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aazannoorkhuwaja&label=Profile%20views&color=0891b2&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
 ### About Me
 
-- **Computer Science Student**
-- Currently Learning **How To Solve Problems?**
-- Linux is my **Habitual OS**
-- Continuously learning and improving problem-solving skills just getting ready for Future Innoavtions.
-- Reach me at **aazannoorkhuwaja@gmail.com**
-- My Personal Website **https://aazannoorkhuwaja.github.io**
+- **Computer Science Student at FAST-NUCES**
+- Building projects while strengthening **problem-solving, data structures, and software design**
+- Linux is my **daily development environment**
+- Interested in **systems, databases, AI/ML, and practical software engineering**
+- Reach me at **[aazannoorkhuwaja@gmail.com](mailto:aazannoorkhuwaja@gmail.com)**
+- My Personal Website **[aazannoorkhuwaja.github.io](https://aazannoorkhuwaja.github.io)**
 
 ---
 
 ### Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,hugo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,linux,git,github,hugo)](https://skillicons.dev)
 
 **Languages & Technologies:**
-- **Programming:** C, C++, Python
-- **Concepts:** (DS),(OOP),(OS),(DBMS)
+- **Programming:** C, C++, Python, Java, SQL
+- **Concepts:** Data Structures, OOP, Operating Systems, DBMS, AI/ML Fundamentals
 - **Systems:** Linux
-- **Tools:** Git, GitHub
+- **Tools & Platforms:** Git, GitHub, MySQL, Jupyter Notebook
 
 ---
 
@@ -45,6 +45,16 @@
 
 [![Learning](https://skillicons.dev/icons?i=python,vim,bash)](https://skillicons.dev)
 
+- Improving **DSA and algorithmic problem-solving**
+- Exploring **AI/ML workflows, operating systems, and database-backed applications**
+
+---
+
+### Featured Projects
+
+- **[Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** — Python + MySQL pharmacy POS, inventory, batch tracking, and customer credit management system.
+- **[Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** — AI/ML project comparing rule-based, supervised, unsupervised, and feature-selection approaches for network attack detection.
+- **[FYP Management System](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project)** — Java Swing application built around MVC, role-based workflows, and software design principles.
 
 ---
 
@@ -54,7 +64,8 @@
   <a href="https://leetcode.com/u/aazannoorkhuwaja" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-    
+</p>
+
 ---
 
 ### Connect with Me!
@@ -62,6 +73,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://aazannoorkhuwaja.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
@@ -85,24 +99,23 @@
   </a>
 </p>
 
+### For Recruiters / Employers
 
-### Employer?
-
-> [!IMPORTANT]  
-> **[My Resume](./Aazan_noor_cv.pdf)**
-> 
-> *Available for internships and entry-level positions*
+> [!IMPORTANT]
+> **[View My Resume](./Aazan_noor_cv.pdf)**
+>
+> *Open to internship and entry-level software engineering opportunities.*
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" alt="footer"/>
 
 <p align="center">
-  <i> From <a href="https://github.com/aazannoorkhuwaja">Aazan Noor Khuwaja</a> - Let's connect and build something amazing!</i>
+  <i>From <a href="https://github.com/aazannoorkhuwaja">Aazan Noor Khuwaja</a> — let's connect and build something meaningful!</i>
   <br>
 </p>
 
 <!--
-    Thanks for visiting my profile! 
+    Thanks for visiting my profile!
     Don't forget to star ⭐ my repositories if you find them interesting!
 -->
