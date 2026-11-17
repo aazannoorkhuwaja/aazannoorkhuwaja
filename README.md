@@ -49,6 +49,22 @@ These projects show how I approach real software problems, from application arch
 
 ---
 
+### Featured Engineering Projects
+
+**[Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** — Offline-first pharmacy POS · `Python` · `PySide6` · `SQLite`
+- **Engineering:** Layered desktop architecture (UI → controllers → Qt-free services), with transactional checkout, FEFO batch allocation, expiry validation, Decimal-based totals, and rollback on failure.
+- **Evidence:** [Architecture](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Safeguards and test/acceptance checklist](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/REAL_WORLD_READINESS.md). **Status:** Engineering build awaiting real-pharmacy and hardware acceptance; not presented as production-approved.
+
+**[Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** — Network traffic classification · `Python` · `scikit-learn` · `Jupyter`
+- **My contributions:** Exploratory data analysis, rule-based detection baseline, and supervised ML experiments (documented as Tasks 1–3 in the group project).
+- **Measured result:** KNN (`k=1`) reached **95.58% test accuracy** and **0.9563 F1-score** in the documented course benchmark (6,000 records; stratified 80/20 split). [Methods, comparisons, and team credits](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection#readme).
+
+**[FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** — Browser extension + local companion application · `JavaScript` · browser integration
+- **Engineering:** Connects an in-browser download action to a locally installed host application, separating the browser interface from the download process.
+- **Evidence:** [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif) · [Installation and troubleshooting](https://github.com/aazannoorkhuwaja/FlashYT#readme).
+
+---
+
 ### Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,linux,git,github,hugo)](https://skillicons.dev)
