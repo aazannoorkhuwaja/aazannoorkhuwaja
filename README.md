@@ -29,6 +29,26 @@
 
 ---
 
+### Selected Projects — Technical Evidence
+
+These projects show how I approach real software problems, from application architecture and data integrity to model evaluation and developer tooling.
+
+**💊 [Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** — Offline-first pharmacy POS · `Python` · `PySide6` · `SQLite`
+- **What it does:** Billing, batch/expiry-aware inventory, customer credit, cash sessions, and backups for pharmacy counters.
+- **Engineering decisions:** An MVC boundary keeps the desktop UI separate from Qt-free business services. Checkout uses SQLite WAL, atomic transactions with rollback, FEFO batch allocation, and `Decimal`-based money calculations.
+- **Evidence:** [Architecture](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Developer workflow and tests](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/DEVELOPER_WORKFLOW.md) · [Readiness and limitations](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/REAL_WORLD_READINESS.md)
+- **Status:** Engineering build; real pharmacy/hardware acceptance remains pending.
+
+**🛡️ [Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** — AI coursework team project · `Python` · `scikit-learn` · `Jupyter`
+- **My contribution:** Exploratory data analysis, a rule-based detection baseline, and supervised learning experiments. My teammate handled K-Means, PCA visualizations, and genetic-algorithm feature selection.
+- **Evidence:** The project's benchmark reports **95.58% test accuracy** and **0.9563 F1-score** for KNN (`k=1`) on its dataset; see the [benchmark and contribution breakdown](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection#readme) and [notebook](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection/blob/main/Network_Intrusion_Detection.ipynb).
+
+**⚡ [FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** — Browser extension and local companion app · `JavaScript` · desktop tooling
+- **Engineering work:** A browser download interface paired with a local background host, plus installation and troubleshooting flows across supported platforms.
+- **Evidence:** [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif) · [Setup, architecture overview, and troubleshooting](https://github.com/aazannoorkhuwaja/FlashYT#readme)
+
+---
+
 ### Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,linux,git,github,hugo)](https://skillicons.dev)
