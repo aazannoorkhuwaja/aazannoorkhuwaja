@@ -29,39 +29,16 @@
 
 ---
 
-### Selected Projects — Technical Evidence
+### Selected Work
 
-These projects show how I approach real software problems, from application architecture and data integrity to model evaluation and developer tooling.
+**[Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** · Python, PySide6, SQLite  
+Offline-first pharmacy POS with a layered desktop architecture, transactional checkout, FEFO batch allocation, and expiry-aware inventory. [Architecture](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Testing and release readiness](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/REAL_WORLD_READINESS.md) *(Pilot validation pending.)*
 
-**💊 [Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** — Offline-first pharmacy POS · `Python` · `PySide6` · `SQLite`
-- **What it does:** Billing, batch/expiry-aware inventory, customer credit, cash sessions, and backups for pharmacy counters.
-- **Engineering decisions:** An MVC boundary keeps the desktop UI separate from Qt-free business services. Checkout uses SQLite WAL, atomic transactions with rollback, FEFO batch allocation, and `Decimal`-based money calculations.
-- **Evidence:** [Architecture](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Developer workflow and tests](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/DEVELOPER_WORKFLOW.md) · [Readiness and limitations](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/REAL_WORLD_READINESS.md)
-- **Status:** Engineering build; real pharmacy/hardware acceptance remains pending.
+**[Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** · Python, scikit-learn, Jupyter  
+Contributed exploratory data analysis, a rule-based baseline, and supervised models to a team project. The documented benchmark reports **95.58% test accuracy** and **0.9563 F1-score** for KNN. [Results and team contributions](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection#readme).
 
-**🛡️ [Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** — AI coursework team project · `Python` · `scikit-learn` · `Jupyter`
-- **My contribution:** Exploratory data analysis, a rule-based detection baseline, and supervised learning experiments. My teammate handled K-Means, PCA visualizations, and genetic-algorithm feature selection.
-- **Evidence:** The project's benchmark reports **95.58% test accuracy** and **0.9563 F1-score** for KNN (`k=1`) on its dataset; see the [benchmark and contribution breakdown](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection#readme) and [notebook](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection/blob/main/Network_Intrusion_Detection.ipynb).
-
-**⚡ [FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** — Browser extension and local companion app · `JavaScript` · desktop tooling
-- **Engineering work:** A browser download interface paired with a local background host, plus installation and troubleshooting flows across supported platforms.
-- **Evidence:** [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif) · [Setup, architecture overview, and troubleshooting](https://github.com/aazannoorkhuwaja/FlashYT#readme)
-
----
-
-### Featured Engineering Projects
-
-**[Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** — Offline-first pharmacy POS · `Python` · `PySide6` · `SQLite`
-- **Engineering:** Layered desktop architecture (UI → controllers → Qt-free services), with transactional checkout, FEFO batch allocation, expiry validation, Decimal-based totals, and rollback on failure.
-- **Evidence:** [Architecture](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Safeguards and test/acceptance checklist](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/REAL_WORLD_READINESS.md). **Status:** Engineering build awaiting real-pharmacy and hardware acceptance; not presented as production-approved.
-
-**[Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** — Network traffic classification · `Python` · `scikit-learn` · `Jupyter`
-- **My contributions:** Exploratory data analysis, rule-based detection baseline, and supervised ML experiments (documented as Tasks 1–3 in the group project).
-- **Measured result:** KNN (`k=1`) reached **95.58% test accuracy** and **0.9563 F1-score** in the documented course benchmark (6,000 records; stratified 80/20 split). [Methods, comparisons, and team credits](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection#readme).
-
-**[FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** — Browser extension + local companion application · `JavaScript` · browser integration
-- **Engineering:** Connects an in-browser download action to a locally installed host application, separating the browser interface from the download process.
-- **Evidence:** [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif) · [Installation and troubleshooting](https://github.com/aazannoorkhuwaja/FlashYT#readme).
+**[FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** · JavaScript, browser extension, desktop integration  
+Browser extension paired with a local companion application for video downloads. [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif) · [Setup and documentation](https://github.com/aazannoorkhuwaja/FlashYT#readme).
 
 ---
 
