@@ -51,6 +51,7 @@ Browser extension paired with a local companion application for video downloads.
 - **Concepts:** Data Structures, OOP, Operating Systems, DBMS, AI/ML Fundamentals
 - **Systems:** Linux
 - **Tools:** Git, GitHub, MySQL, Jupyter Notebook
+- **Skills in practice:** [Database transactions and business logic](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Data analysis and ML evaluation](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection/blob/main/Network_Intrusion_Detection.ipynb) · [Browser and local application integration](https://github.com/aazannoorkhuwaja/FlashYT#readme)
 
 ---
 
@@ -59,7 +60,7 @@ Browser extension paired with a local companion application for video downloads.
 [![Learning](https://skillicons.dev/icons?i=python,vim,bash)](https://skillicons.dev)
 
 - Strengthening **DSA and algorithmic problem-solving**
-- Exploring **AI/ML, operating systems, and database-backed applications**
+- Building foundations in **backend development, APIs, SQL, and database-backed applications**
 
 ---
 
