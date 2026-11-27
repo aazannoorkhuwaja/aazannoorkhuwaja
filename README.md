@@ -1,101 +1,99 @@
-<!-- Aazan Noor Khuwaja | Profile README -->
+<!-- Profile README — Aazan Noor Khuwaja -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header" alt="Teal header"/>
 
 <div align="center">
 
-<img src="assets/engineering-banner.svg" width="100%" alt="Aazan Noor Khuwaja — Build for the real world. Computer Science at FAST-NUCES Karachi; software, backend and systems engineering."/>
+# Aazan Noor Khuwaja
 
-<a href="https://aazannoorkhuwaja.github.io"><img src="https://img.shields.io/badge/Portfolio-102c36?style=for-the-badge&logo=githubpages&logoColor=5eead4" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/"><img src="https://img.shields.io/badge/LinkedIn-102c36?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="LinkedIn"/></a>
-<a href="mailto:aazannoorkhuwaja@gmail.com"><img src="https://img.shields.io/badge/Email-102c36?style=for-the-badge&logo=gmail&logoColor=5eead4" alt="Email"/></a>
-<a href="./Aazan_noor_cv.pdf"><img src="https://img.shields.io/badge/Resume-102c36?style=for-the-badge&logo=readthedocs&logoColor=5eead4" alt="Resume"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4500&pause=700&color=0891b2&center=true&width=650&lines=Computer+Science+Student+at+FAST;Building+Software+for+Real+Problems;Learning+Backend+and+Systems+Engineering" alt="Computer science student building practical software and learning backend and systems engineering"/>
 
-</div>
-
-## About me
-
-I'm a CS student at FAST-NUCES, Karachi. I like working on problems where software has a practical use, whether that's running a pharmacy counter offline or understanding how network requests move between servers.
-
-Building Pharma-Khaato taught me to think beyond the interface: what happens if a checkout fails halfway through, how to keep inventory consistent, and how to make a system usable by the person who actually needs it.
-
-Right now I'm strengthening my backend and systems fundamentals. My longer-term goal is forward deployed engineering — understanding a problem, working with the people who face it, and building software that fits their needs.
-
-<img src="assets/engineering-loop.svg" width="100%" alt="My engineering loop: understand the problem, design the data and flow, build a useful version, test and improve."/>
-
-## Currently building
-
-**[Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** · Python, PySide6, SQLite
-
-An offline pharmacy POS for Windows and Linux. It handles checkout, expiry-aware stock allocation, customer dues and cash shifts. I am working on the gap between a functioning application and one that is ready for daily use at a pharmacy.
-
-- **Available:** documented v2.5.1 installers, transactional checkout and batch-level inventory.
-- **Next:** physical hardware and pharmacy-site acceptance; not yet validated for live pharmacy use.
-
-[Release](https://github.com/aazannoorkhuwaja/Pharma-Khaato/releases/tag/v2.5.1) · [Checkout preview](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/images/windows-practice-checkout.png) · [Architecture](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Acceptance checklist](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/PHARMACY_SITE_ACCEPTANCE.md)
-
-**[Software Load Balancer](https://github.com/RED-Mushaf-Ali-Mir/Software-Load-Balancer-With-Health-Checks)** · Python asyncio, HTTP
-
-A Computer Networks team project for distributing HTTP traffic across multiple servers. The proxy supports round robin, least connections and IP hash. My assigned work is backend test servers and benchmarking, including comparison with HAProxy. Active health checks and benchmarks are still in progress.
-
-[Team repository](https://github.com/RED-Mushaf-Ali-Mir/Software-Load-Balancer-With-Health-Checks#readme)
-
-## Selected work
-
-| Project | What I worked on |
-| :--- | :--- |
-| **[FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** | Browser extension and a local Python companion app for video format selection, downloads and progress tracking. [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif) |
-| **[Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** | Exploratory analysis, a rule-based baseline and supervised classification. Our course benchmark reports **95.58% test accuracy** and **0.9563 F1** for KNN. Original dataset not included. [Results](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection#benchmark-results-summary) |
-| **[FYP Management System](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project)** | Java Swing team project covering proposals, supervision and peer reviews, using MVC and role-based workflows. [Source](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project) |
-
-## My toolkit
-
-**Building with**
-
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,sqlite,mysql,linux,git,github&theme=dark" alt="Python, C, C++, Java, SQLite, MySQL, Linux, Git, GitHub"/>
-
-PySide6, SQL, Bash, Jupyter and browser extension development.
-
-**Learning next**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,docker&theme=dark" alt="HTML, CSS, JavaScript, FastAPI, Docker — currently learning"/>
-
-I'm learning these through projects, alongside HTTP, APIs, database design, [data structures](https://github.com/aazannoorkhuwaja/Data-Structures) and [operating systems](https://github.com/aazannoorkhuwaja/OS-learning).
-
-## Beyond the keyboard
-
-I'm the Vice President of the GitHub Campus Club at FAST-NUCES Karachi. I want to make Git, open source and collaborative development less intimidating for students who are just getting started.
-
-## GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/aazannoorkhuwaja?tab=overview">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aazannoorkhuwaja&amp;bg_color=0d1d27&amp;color=b3cad2&amp;line=2dd4bf&amp;point=5eead4&amp;area=true&amp;area_color=0891b2&amp;hide_border=true&amp;custom_title=Contribution%20timeline" width="100%" alt="Recent GitHub contribution activity graph"/>
-</a>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aazannoorkhuwaja&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1d27&amp;title_color=5eead4&amp;icon_color=2dd4bf&amp;text_color=b3cad2&amp;ring_color=2dd4bf&amp;border_radius=12" width="49%" alt="GitHub contribution statistics"/>
-<img src="https://readme-stats-fast.vercel.app/api/streak/?username=aazannoorkhuwaja&amp;hide_border=true&amp;background=0d1d27&amp;stroke=285060&amp;ring=2dd4bf&amp;fire=5eead4&amp;currStreakNum=e9f3f6&amp;sideNums=e9f3f6&amp;currStreakLabel=5eead4&amp;sideLabels=b3cad2&amp;dates=93a8b4&amp;border_radius=12" width="49%" alt="GitHub contribution streak"/>
-
-<a href="https://github.com/aazannoorkhuwaja?tab=overview">Native GitHub contribution history</a> · <a href="https://github.com/aazannoorkhuwaja?tab=repositories">All repositories</a> · <a href="https://leetcode.com/u/aazannoorkhuwaja">LeetCode</a>
+<a href="https://aazannoorkhuwaja.github.io"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:aazannoorkhuwaja@gmail.com"><img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="./Aazan_noor_cv.pdf"><img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 
 </div>
 
-### Recent engineering updates
+## About
 
-A few changes from my public project repositories (November 2026):
+I'm a BS Computer Science student at FAST-NUCES, Karachi. I like building software around real problems and understanding how it works beyond the user interface.
 
-| Date | Repository update |
-| :--- | :--- |
-| Nov 23 | [Pharma-Khaato: reorganized documentation and v2.5.1 downloads](https://github.com/aazannoorkhuwaja/Pharma-Khaato/commit/b31733137b9cb6c7e10abef5c285010e43437cb9) |
-| Nov 19 | [Pharma-Khaato: documented upgrade paths and practice checkout](https://github.com/aazannoorkhuwaja/Pharma-Khaato/commit/4a21290ac0c344ee7bb29cd403bb4f9d5fa0d183) |
-| Nov 17 | [FlashYT: improved project overview and demo links](https://github.com/aazannoorkhuwaja/FlashYT/commit/7be979b909a6eb9fb1f0484662b7e9c1dad1465b) |
-| Nov 17 | [Network Intrusion Detection: clarified benchmark evidence and dataset requirements](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection/commit/986a486c5346cca4511270a3611df17b7ae83e95) |
+Working on a pharmacy POS made me think about things I used to overlook, like what happens when a sale fails halfway through, how stock should be allocated by expiry date, and how software behaves without an internet connection.
+
+I'm currently learning backend development and systems engineering, with the longer-term goal of becoming a forward deployed engineer. I use Linux as my daily development environment.
+
+## What I'm working on
+
+**[Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** · Python, PySide6, SQLite  
+An offline pharmacy POS for Windows and Linux, covering checkout, batch-based inventory, customer dues and cash shifts. The application uses a layered architecture, transactional checkout and first-expiry-first-out (FEFO) stock allocation.
+
+**Status:** v2.5.1 installers are documented for Windows and Ubuntu. Physical hardware and pharmacy-site acceptance are still pending.
+
+[Release](https://github.com/aazannoorkhuwaja/Pharma-Khaato/releases/tag/v2.5.1) · [Checkout preview](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/images/windows-practice-checkout.png) · [Architecture](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Site acceptance checklist](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/PHARMACY_SITE_ACCEPTANCE.md)
+
+**[Software Load Balancer with Health Checks](https://github.com/RED-Mushaf-Ali-Mir/Software-Load-Balancer-With-Health-Checks)** · Python asyncio, HTTP  
+A team project for Computer Networks. The proxy currently supports round robin, least connections and IP hash. My assigned area is backend test servers and benchmarking, including comparison with HAProxy. Active health checks and the benchmarking work are still in progress.
+
+## Selected projects
+
+**[Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** · Python, scikit-learn, Jupyter  
+I worked on exploratory data analysis, a rule-based baseline and supervised classification. Our course project reports **95.58% test accuracy** and **0.9563 F1-score** for KNN. The original dataset is not public, so these reported results cannot be reproduced from the repository alone.
+
+[Results and contributions](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection#readme)
+
+**[FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** · JavaScript, Python, browser extensions  
+A browser extension that communicates with a local Python companion app to handle video downloads, format selection and progress tracking.
+
+[Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif) · [Documentation](https://github.com/aazannoorkhuwaja/FlashYT#readme)
+
+**[FYP Management System](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project)** · Java, Swing, MVC  
+A Software Design and Analysis team project for managing student proposals, supervisor requests and peer reviews. It gave me practical exposure to role-based workflows and separating application logic from the interface.
+
+## Tools I use
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,sqlite,mysql,linux,git,github&theme=dark" alt="C, C++, Python, Java, SQLite, MySQL, Linux, Git and GitHub"/>
+
+Also: PySide6, Jupyter, SQL and Bash.
+
+## Currently learning
+
+- Backend development: HTTP, APIs, databases and application architecture.
+- Web development: HTML, CSS and JavaScript, with a focus on building complete projects.
+- Systems: computer networks, Linux and Docker.
+- [Data structures and algorithms](https://github.com/aazannoorkhuwaja/Data-Structures) and [operating systems](https://github.com/aazannoorkhuwaja/OS-learning).
+
+## Beyond code
+
+I'm the Vice President of the GitHub Campus Club at FAST-NUCES Karachi. I'm interested in making Git and open-source development more approachable for students who are just getting started.
 
 ## Get in touch
 
-I'm open to software engineering internships, research collaborations and projects where I can learn by solving real problems.
+I'm open to internships, research collaborations and software engineering opportunities where I can learn by working on real problems.
 
-[Email](mailto:aazannoorkhuwaja@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/) · [Portfolio](https://aazannoorkhuwaja.github.io) · [Resume](./Aazan_noor_cv.pdf)
+[Email](mailto:aazannoorkhuwaja@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/) · [Portfolio](https://aazannoorkhuwaja.github.io) · [Resume](./Aazan_noor_cv.pdf) · [LeetCode](https://leetcode.com/u/aazannoorkhuwaja)
 
----
+## GitHub activity
 
-<p align="center"><sub>Understand the problem. Build something useful. Keep improving.</sub></p>
+<p align="center">
+  <a href="https://github.com/aazannoorkhuwaja?tab=overview">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aazannoorkhuwaja&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=0891b2&amp;point=06b6d4&amp;area=true&amp;area_color=0891b2&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aazannoorkhuwaja&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0891b2&amp;icon_color=06b6d4&amp;text_color=c9d1d9&amp;border_radius=10" alt="GitHub statistics" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aazannoorkhuwaja&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0891b2&amp;text_color=c9d1d9&amp;layout=compact&amp;border_radius=10" alt="Languages used in public repositories" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=aazannoorkhuwaja&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=06b6d4&amp;ring=0891b2&amp;fire=06b6d4&amp;currStreakLabel=06b6d4&amp;border_radius=10" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aazannoorkhuwaja?tab=overview">Contribution history</a> ·
+  <a href="https://github.com/aazannoorkhuwaja?tab=repositories">All repositories</a> ·
+  <a href="https://leetcode.com/u/aazannoorkhuwaja">LeetCode</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" alt="Teal footer"/>
