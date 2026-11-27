@@ -17,102 +17,35 @@
 
 ## About me
 
-I'm a Computer Science student at FAST-NUCES, Karachi, interested in backend development, systems engineering and building software for real-world problems.
+I'm a BS Computer Science student at FAST-NUCES Karachi (2028), building practical software while learning backend and systems engineering. My long-term goal is forward deployed engineering.
 
-Working on a pharmacy POS taught me to think beyond the interface: how to keep data consistent, handle failures and build software that works without an internet connection. I'm continuing to develop these skills through practical projects, with a long-term interest in forward deployed engineering.
+**Vice President, GitHub Campus Club** · Open to software engineering internships and research opportunities.
 
-- **Education:** BS Computer Science, FAST-NUCES Karachi · Expected graduation: 2028
-- **Current focus:** Backend development, databases and reliable software systems
-- **Leadership:** Vice President, GitHub Campus Club, FAST-NUCES Karachi
-- **Open to:** Software engineering internships and research opportunities
+## Currently building
 
----
+**[Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** · Python, PySide6, SQLite  
+Offline pharmacy POS with transactional billing and expiry-aware inventory. v2.5.1 installers documented; pharmacy-site validation pending. [Release](https://github.com/aazannoorkhuwaja/Pharma-Khaato/releases/tag/v2.5.1) · [Preview](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/images/windows-practice-checkout.png)
 
-## Projects
+**[Software Load Balancer](https://github.com/RED-Mushaf-Ali-Mir/Software-Load-Balancer-With-Health-Checks)** · Python asyncio, HTTP  
+Team project for HTTP traffic distribution. My assigned area is backend test servers and HAProxy benchmarking; health checks and benchmarks are in progress.
 
-### Currently working on
+## Selected projects
 
-#### [Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)
+**[Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** · Python, scikit-learn  
+Contributed data analysis, rule-based detection and supervised classification. Reported KNN test accuracy: **95.58%**, F1: **0.9563**. Course dataset not included.
 
-**Python · PySide6 · SQLite**
+**[FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** · JavaScript, Python  
+Browser extension with a local companion app for video downloads and progress tracking. [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif)
 
-An offline point-of-sale application for pharmacies on Windows and Linux.
+**[FYP Management System](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project)** · Java, Swing, MVC  
+Team project for student proposals, supervision and peer reviews.
 
-- Handles billing, batch-based inventory, customer dues and cash shifts.
-- Uses transactional checkout, layered architecture and first-expiry-first-out (FEFO) stock allocation.
-- **Status:** v2.5.1 installers are documented. Physical hardware and pharmacy-site acceptance are still pending.
-
-[Release](https://github.com/aazannoorkhuwaja/Pharma-Khaato/releases/tag/v2.5.1) · [Checkout preview](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/images/windows-practice-checkout.png) · [Architecture](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/ARCHITECTURE.md) · [Acceptance checklist](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/PHARMACY_SITE_ACCEPTANCE.md)
-
-#### [Software Load Balancer with Health Checks](https://github.com/RED-Mushaf-Ali-Mir/Software-Load-Balancer-With-Health-Checks)
-
-**Python asyncio · HTTP · Computer Networks**
-
-A team project that distributes HTTP requests across multiple backend servers.
-
-- Supports round robin, least connections and IP hash.
-- **My assigned work:** Backend test servers and performance benchmarking, including comparison with HAProxy.
-- **Status:** Active health checks and benchmarking are in progress.
-
-### Selected work
-
-#### [Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)
-
-**Python · scikit-learn · Jupyter**
-
-An academic team project comparing rule-based and machine learning approaches to classifying network traffic.
-
-- **My contribution:** Exploratory data analysis, rule-based baseline and supervised classification.
-- **Reported result:** KNN achieved **95.58% test accuracy** and **0.9563 F1-score** on the course dataset. The original dataset is not included in the public repository.
-
-[Benchmark results and contributions](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection#readme)
-
-#### [FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)
-
-**JavaScript · Python · Browser extensions**
-
-A browser extension connected to a local Python companion application for video format selection, downloads and progress tracking.
-
-[Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif) · [Documentation](https://github.com/aazannoorkhuwaja/FlashYT#readme)
-
-#### [FYP Management System](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project)
-
-**Java · Swing · MVC**
-
-An academic team project for managing final-year project proposals, supervisor requests and peer reviews. It gave me practical exposure to role-based workflows and separating application logic from the user interface.
-
-[Source and architecture](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project#readme)
-
----
-
-## Technical skills
+## Skills & learning
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java,sqlite,mysql,linux,git,github&theme=dark" alt="C, C++, Python, Java, SQLite, MySQL, Linux, Git and GitHub"/>
 
-| Area | Technologies and concepts |
-| :--- | :--- |
-| Programming | Python, C, C++, Java, SQL |
-| Application development | PySide6, Java Swing, browser extension integration |
-| Databases | SQLite, MySQL, transactions and relational data |
-| Tools and environment | Linux, Git, GitHub, Bash, Jupyter |
-| CS fundamentals | Data structures, algorithms, OOP, operating systems, computer networks |
-
-## Currently learning
-
-- **Backend:** HTTP, APIs, database design and application architecture.
-- **Web development:** HTML, CSS and JavaScript through practical projects.
-- **Infrastructure:** Linux, Docker and networking.
-- **CS fundamentals:** [Data structures and algorithms](https://github.com/aazannoorkhuwaja/Data-Structures) and [operating systems](https://github.com/aazannoorkhuwaja/OS-learning).
-
----
-
-## Leadership & community
-
-**Vice President · GitHub Campus Club, FAST-NUCES Karachi**
-
-I'm interested in making Git, open source and collaborative development more approachable for students who are just getting started.
-
----
+**Also:** SQL, PySide6, Bash, Jupyter.  
+**Learning:** Backend APIs, web development, Docker and [DSA](https://github.com/aazannoorkhuwaja/Data-Structures).
 
 ## GitHub activity
 
@@ -136,12 +69,5 @@ I'm interested in making Git, open source and collaborative development more app
   <a href="https://leetcode.com/u/aazannoorkhuwaja">LeetCode</a>
 </p>
 
----
-
-## Get in touch
-
-I'm open to software engineering internships, research collaborations and opportunities to learn by solving real problems.
-
-[Email](mailto:aazannoorkhuwaja@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aazan-noor-khuwaja-70953927b/) · [Portfolio](https://aazannoorkhuwaja.github.io) · [Resume](./Aazan_noor_cv.pdf)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" alt="Teal footer"/>
