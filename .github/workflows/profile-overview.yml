@@ -1,0 +1,71 @@
+name: Refresh profile overview
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 3 * * 1'
+permissions:
+  contents: write
+concurrency:
+  group: profile-overview
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate cards from public GitHub data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import collections, html, json, os, urllib.request
+          from pathlib import Path
+          user = "aazannoorkhuwaja"
+          def api(path):
+              req = urllib.request.Request("https://api.github.com" + path, headers={"Authorization": "Bearer " + os.environ["GH_TOKEN"], "Accept": "application/vnd.github+json", "User-Agent": "profile-overview"})
+              with urllib.request.urlopen(req, timeout=30) as res:
+                  return json.load(res)
+          repos = []
+          page = 1
+          while True:
+              batch = api(f"/users/{user}/repos?type=owner&per_page=100&page={page}")
+              repos.extend(batch)
+              if len(batch) < 100:
+                  break
+              page += 1
+          repos = [r for r in repos if not r["private"]]
+          langs = collections.Counter()
+          for r in repos:
+              if not r["fork"]:
+                  langs.update(api(f"/repos/{r['full_name']}/languages"))
+          total = sum(langs.values())
+          top = langs.most_common(4)
+          rows = []
+          colors = ["#0891b2", "#2dd4bf", "#60a5fa", "#a78bfa"]
+          for i, (name, size) in enumerate(top):
+              y = 60 + 26*i
+              pct = 100*size/total
+              rows.append(f'<circle cx="437" cy="{y-5}" r="5" fill="{colors[i]}"/><text x="450" y="{y}" font-size="14" fill="#c9d1d9">{html.escape(name)}</text><text x="778" y="{y}" font-size="14" text-anchor="end" fill="#c9d1d9">{pct:.1f}%</text>')
+          stars = sum(r["stargazers_count"] for r in repos)
+          forks = sum(r["forks_count"] for r in repos)
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="190" viewBox="0 0 800 190" role="img" aria-label="Public GitHub repository overview and top repository languages">
+          <g font-family="Arial,Helvetica,sans-serif">
+          <rect x="1" y="1" width="389" height="188" rx="10" fill="#0d1117" stroke="#30363d"/>
+          <rect x="410" y="1" width="389" height="188" rx="10" fill="#0d1117" stroke="#30363d"/>
+          <g font-size="18" font-weight="bold" fill="#22b8cf"><text x="22" y="32">GitHub overview</text><text x="431" y="32">Top repository languages</text></g>
+          <g fill="#c9d1d9" font-size="16"><text x="22" y="65">Public repositories</text><text x="22" y="96">Repository stars</text><text x="22" y="127">Repository forks</text></g>
+          <g fill="#c9d1d9" font-size="20" font-weight="bold" text-anchor="end"><text x="365" y="65">{len(repos)}</text><text x="365" y="96">{stars}</text><text x="365" y="127">{forks}</text></g>
+          {''.join(rows)}
+          <g fill="#8b949e" font-size="11"><text x="22" y="170">Public repository totals · refreshed weekly</text><text x="431" y="170">By code bytes in non-fork public repositories</text></g>
+          </g></svg>
+          '''
+          Path("assets/github-overview.svg").write_text(svg, encoding="utf-8")
+          PY
+      - name: Publish updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-overview.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Refresh public GitHub overview"
+          git push
