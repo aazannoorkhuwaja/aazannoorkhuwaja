@@ -17,28 +17,28 @@
 
 ## About me
 
-I'm a BS Computer Science student at FAST-NUCES Karachi (2028), building practical software while learning backend and systems engineering. My long-term goal is forward deployed engineering.
+I'm a BS Computer Science student at FAST-NUCES Karachi (2028). I build practical software, from an offline pharmacy POS to browser tools and network applications, while developing my backend and systems engineering skills.
 
 **Vice President, GitHub Campus Club** · Open to software engineering internships and research opportunities.
 
 ## Currently building
 
 **[Pharma-Khaato](https://github.com/aazannoorkhuwaja/Pharma-Khaato)** · Python, PySide6, SQLite  
-Offline pharmacy POS with transactional billing and expiry-aware inventory. v2.5.1 installers documented; pharmacy-site validation pending. [Release](https://github.com/aazannoorkhuwaja/Pharma-Khaato/releases/tag/v2.5.1) · [Preview](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/images/windows-practice-checkout.png)
+Built an offline pharmacy POS with transactional billing and expiry-aware inventory. **v2.5.1 packages for Windows and Ubuntu** are documented; real pharmacy validation is pending. [Release](https://github.com/aazannoorkhuwaja/Pharma-Khaato/releases/tag/v2.5.1) · [Preview](https://github.com/aazannoorkhuwaja/Pharma-Khaato/blob/main/docs/images/windows-practice-checkout.png)
 
 **[Software Load Balancer](https://github.com/RED-Mushaf-Ali-Mir/Software-Load-Balancer-With-Health-Checks)** · Python asyncio, HTTP  
-Team project for HTTP traffic distribution. My assigned area is backend test servers and HAProxy benchmarking; health checks and benchmarks are in progress.
+Team-built HTTP reverse proxy supporting **3 traffic distribution algorithms**. My assigned work: backend test servers and HAProxy benchmarking; active health checks and benchmarks pending.
 
 ## Selected projects
 
 **[Network Intrusion Detection](https://github.com/aazannoorkhuwaja/Network-Intrusion-Detection)** · Python, scikit-learn  
-Contributed data analysis, rule-based detection and supervised classification. Reported KNN test accuracy: **95.58%**, F1: **0.9563**. Course dataset not included.
+Achieved **95.58% test accuracy and 0.9563 F1** with KNN in a team course project using 6,000 connection records. My work covered data analysis, rule-based detection and supervised models. Original dataset unavailable in repo.
 
 **[FlashYT](https://github.com/aazannoorkhuwaja/FlashYT)** · JavaScript, Python  
-Browser extension with a local companion app for video downloads and progress tracking. [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif)
+Integrated a browser extension with a local Python download host, with documented support for **Chrome, Edge and Brave**. [Demo](https://github.com/aazannoorkhuwaja/FlashYT/blob/main/docs/images/flashyt_demo.gif)
 
 **[FYP Management System](https://github.com/aazannoorkhuwaja/FYP-Management-System-SDA-Project)** · Java, Swing, MVC  
-Team project for student proposals, supervision and peer reviews.
+Team-built MVC application with **3 role-based dashboards** for students, supervisors and administrators, supporting proposals and peer reviews.
 
 ## Skills & learning
 
