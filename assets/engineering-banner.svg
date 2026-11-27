@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="264" viewBox="0 0 960 264" role="img" aria-labelledby="title desc">
+<title id="title">Aazan Noor Khuwaja — Build for the real world</title><desc id="desc">Computer science at FAST-NUCES Karachi. Software, backend and systems engineering.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1520"/><stop offset="1" stop-color="#102c36"/></linearGradient><linearGradient id="edge"><stop stop-color="#0891b2"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8ce9e8" stroke-opacity=".055"/></pattern></defs>
+<rect x="1" y="1" width="958" height="262" rx="20" fill="url(#bg)" stroke="#285060"/><rect x="2" y="2" width="956" height="260" rx="19" fill="url(#grid)"/>
+<rect x="31" y="34" width="4" height="189" rx="2" fill="url(#edge)"/>
+<g font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="2" fill="#77d8dc"><text x="52" y="48">ENGINEERING IN PROGRESS</text><text x="52" y="221" fill="#9aafba" font-size="12" letter-spacing=".8">BS COMPUTER SCIENCE  /  FAST-NUCES KARACHI</text></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="50" y="108" fill="#f2f8fa" font-size="45" font-weight="700" letter-spacing="-1.6">Aazan Noor Khuwaja</text><text x="52" y="153" fill="#5eead4" font-size="28" font-weight="600">Build for the real world.</text><text x="52" y="185" fill="#b3cad2" font-size="18">Software  ·  Backend  ·  Systems</text></g>
+<g transform="translate(695 30)" font-family="ui-monospace,Consolas,monospace">
+<path d="M18 46H85V104H171V162H220 M85 104V186H133 M171 104V30H220" fill="none" stroke="#28707d" stroke-width="2" stroke-linejoin="round"/><path d="M18 46H85V104H171V162H220" fill="none" stroke="#2dd4bf" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="#102e37" stroke="#5eead4" stroke-width="1.5"><rect x="2" y="30" width="32" height="32" rx="6"/><rect x="69" y="88" width="32" height="32" rx="6"/><rect x="155" y="88" width="32" height="32" rx="6"/><rect x="204" y="146" width="32" height="32" rx="6"/></g>
+<g fill="#2dd4bf"><circle cx="18" cy="46" r="4"/><circle cx="85" cy="104" r="4"/><circle cx="171" cy="104" r="4"/><circle cx="220" cy="162" r="4"/><circle cx="220" cy="30" r="3"/><circle cx="133" cy="186" r="3"/></g>
+<text x="2" y="20" font-size="11" fill="#96b6c0">PROBLEM</text><text x="52" y="82" font-size="11" fill="#96b6c0">DESIGN</text><text x="144" y="82" font-size="11" fill="#96b6c0">BUILD</text><text x="184" y="198" font-size="11" fill="#96b6c0">TEST</text></g>
+</svg>
