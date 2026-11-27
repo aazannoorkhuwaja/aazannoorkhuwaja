@@ -82,8 +82,7 @@ I'm open to internships, research collaborations and software engineering opport
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aazannoorkhuwaja&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0891b2&amp;icon_color=06b6d4&amp;text_color=c9d1d9&amp;border_radius=10" alt="GitHub statistics" width="49%"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aazannoorkhuwaja&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0891b2&amp;text_color=c9d1d9&amp;layout=compact&amp;border_radius=10" alt="Languages used in public repositories" width="49%"/>
+  <a href="https://github.com/aazannoorkhuwaja?tab=repositories"><img src="assets/github-overview.svg" width="100%" alt="GitHub repository overview and project languages"/></a>
 </p>
 
 <p align="center">
